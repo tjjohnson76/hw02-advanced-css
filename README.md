@@ -4,7 +4,7 @@ For this assignment, I created a webpage which displays an example portfolio. Th
 
 ## Link to Deployed Version
 
-[Click here to see the deployed version](https://tjjohnson76.github.io/hw01-advanced-css/)
+[Click here to see the deployed version](https://tjjohnson76.github.io/hw02-advanced-css/)
 
 ## links for images used
 https://unsplash.com/photos/cumulus-clouds-and-lightning-wF5z4_JzxaU
