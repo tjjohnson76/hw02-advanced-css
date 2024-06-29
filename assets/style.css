@@ -28,6 +28,7 @@ header nav {
 header nav ul {
     display: flex;
     align-self: center;
+    padding-right: 30px;
 }
 
 header ul li a {
@@ -55,7 +56,99 @@ header ul li:hover {
     display: flex;
     justify-content: flex-end;
     margin: 20px 20px;
-
+    padding-right: 30px;
+    
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*________________________________________________________*/
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+main article {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+
+main article h3 {
+    width: 30%;
+    border-right: 5px solid black;
+    font-size: 40px;
+}
+
+#about-me div {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    padding: 0 20px;
+}
+
+#previous-work div {
+    display: flex;
+    width: 70%;
+    padding-left: 20px;
+    padding-right: 300px;
+    flex-wrap: wrap;
+}
+
+#previous-work section {
+    border: 3px solid aqua;
+    min-width: 400px;
+    margin: 10px;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+#previous-work h4{
+    display: inline;
+    background-color: aqua;
+}
+#previous-work p {
+    display: inline;
+    background-color: aqua;
+}
+
+#firstWork {
+    width: 100%;
+    height: 300px;
+    background-image: url('./pi.png');
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#contact-me div {
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+#contact-me div a {
+    padding: 20px 0;
+    padding-right: 10px;
+}
+
+#resume a {
+    width: 70%;
+    padding: 20px 20px;
 }
