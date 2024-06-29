@@ -1,5 +1,13 @@
 # 02 Advanced CSS: Portfolio
 
+
+https://unsplash.com/photos/cumulus-clouds-and-lightning-wF5z4_JzxaU
+
+https://unsplash.com/photos/brown-rock-formation-near-body-of-water-during-daytime-NvirgXMLaaY
+
+https://unsplash.com/photos/a-large-waterfall-with-snow-on-the-ground-Rb0p4eKPQWA
+
+
 ## Your Task
 
 Welcome to this week's Challenge! This is an even-numbered week, so you won't be given any starter code. Instead, you'll create a web application from scratch! This week, you'll build a portfolio page, which you can add to as the course progresses. 

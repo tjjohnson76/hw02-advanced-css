@@ -181,3 +181,31 @@ main article h3 {
     width: 70%;
     padding: 20px 20px;
 }
+
+
+@media screen and (max-width: 768px) {
+    
+    header {
+        flex-direction: column;
+        justify-content: space-around;
+        height: 150px;
+    }
+   
+
+    main article {
+        flex-direction: column;
+    }
+
+    main article h3 {
+        width: 100%;
+        border-bottom: 5px solid black;
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+
+    #contact-me div{
+        flex-direction: column;
+    }
+
+
+}
